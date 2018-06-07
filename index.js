@@ -31,3 +31,5 @@ return kittens.slice(1)
 function removeLastKitten(){
 return kittens.slice(2)
 }
+
+I have to remove the last kitten which is garfield
